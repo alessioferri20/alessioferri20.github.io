@@ -3,7 +3,7 @@ layout: home
 ---
 # About Me
 
-Hello everyone! My name is Alessio ferri and i'm a developer from Pesaro, Italy.
+Hello everyone! My name is Alessio Ferri and i'm a developer from Pesaro, Italy.
 I recently moved into Web development and i'm really excited about it!
 
 Feel free to check out my work or view my resume.
