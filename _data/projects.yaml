@@ -32,3 +32,8 @@
 #  url: http://taylantatli.me/StartPage/
 #  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
 #  completed: false
+
+- title: Allergens Reports
+  url: https://github.com/alessioferri20/allergensreports
+  image:
+  completed: true
