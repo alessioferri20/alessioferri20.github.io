@@ -8,3 +8,5 @@ I recently moved into Web development and i'm really excited about it!
 
 Feel free to check out my work or view my resume.
 I am currently available for hire, so if i sound fit for your next project, don't hesitate to contact me!
+
+# Something about my passions
