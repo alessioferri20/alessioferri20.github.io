@@ -2,7 +2,7 @@
 title: Alessio Ferri
 description: Junior Web Developer
 url: https://alessioferri20.github.io
-logo: halve.png                                       # Site logo
+logo: halve.jpg                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -29,12 +29,12 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:          alessio.ferri20@gmail.com
+email:          alessioferri20@icloud.com
 #google.plus:   username
 #twitter:       username
 #facebook:      username
 github:         alessioferri20
-#stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow:  8793899/alessioferri20  # from a "http://stackoverflow.com/users/123456/username" link
 linkedin:       "alessio-ferri-59a24bb0"
 #xing:          username
 #instagram:     username

@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/Sormani/</loc>
+<lastmod>2011-07-01T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Overout/</loc>
+<lastmod>2013-07-27T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Degree/</loc>
+<lastmod>2015-02-12T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/NGTec/</loc>
+<lastmod>2015-05-11T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Biesse/</loc>
+<lastmod>2015-11-23T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Planstudio/</loc>
+<lastmod>2017-01-09T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Other/</loc>
+<lastmod>2017-07-01T00:00:00+02:00</lastmod>
+</url>
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
