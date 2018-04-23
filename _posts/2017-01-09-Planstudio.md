@@ -1,18 +1,10 @@
 ---
 layout: post
 title: "Planstudio srl"
-date: 2017/01/09
+date: 2017-01-09
 excerpt: "Worked from 09/01/2017 to 30/06/2017"
-categories:
-  - Customers relationship
-  - C#
-  - SqlServer
-  - SqLite
-tags:
-  - customers relationship
-  - c#
-  - sqlserver
-  - sqlite
+tags: [customers relationship, C#, sqlserver, sqlite]
+comments: false
 ---
 
 - Software development on the company's program based on data elaboration of a cad software.
