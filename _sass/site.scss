@@ -72,14 +72,13 @@ body {
 .container {
 	width: 36rem;
 	max-width: 550px;
-	padding-right: 15px;
-	padding-left: 15px;
+	padding: 15px;
 	@include center-block();
 	background-color: $white;
 	color: $color_shark;
 	z-index: 1;
-	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	border-radius: .5rem;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 100%;
@@ -107,8 +106,8 @@ body {
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
-	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	border-radius: .5rem;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
